@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-#include "camera_matrix.h"
+#include "input_matrix.h"
 
 int main() {
 
