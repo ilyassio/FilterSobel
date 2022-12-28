@@ -1,8 +1,10 @@
-# BCIP
-Basic Convolution Image Processing
+# SobelFilter
 
 By Ilyas MAKROUM
 
+[Sobel fitler with C](sobelFitler.c)
+
+[Sobel fitler with Python](sobelFitler.ipynb)
 
 #### Input Image
 
